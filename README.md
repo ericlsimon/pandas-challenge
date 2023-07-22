@@ -1,15 +1,15 @@
 # eric-simon-pandas-challenge
 
-Module 4
+## Module 4
 
-PyCitySchools Instructions
+### PyCitySchools Instructions
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data.
 
-District Summary
+#### District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
-School Summary
+#### School Summary
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
 * Highest-Performing Schools (by % Overall Passing)
@@ -18,9 +18,9 @@ Perform the necessary calculations and then create a DataFrame that summarizes k
 * Reading Scores by Grade
 * Scores by School Spending
 
-Written Report
+### Written Report
 
-  Analysis Summary:
+ #### Analysis Summary:
     Analyzing the entirety of the district, there were a total of 39,170 high school students whose scores were analyzed to determine average math and reading scores as well as the percentages of students who passed math and reading subjects. Of the 39,170 students averages are as follows:
     
     Average Math Score - 78.985371	
@@ -46,6 +46,6 @@ Lowest preforming schools:
 5. Johnson High School	
 
 
-  Conclusions/Comparisons:
+  #### Conclusions/Comparisons:
 * Charter schools has a significantly higher overall passing rate(90.43%) compared with the overall passing rate of the district schools(53.67%)
 * There was no positive correlation between school spending buckets on a per student basis and average scores as well as overall passing rate. The schools in the lowest spending bucket per student basis(<$585) actually had the highest overall passing averages for math and reading.
